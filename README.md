@@ -36,6 +36,8 @@ Some of the additional features (bonus) that can be added are:
 - Also, add the final apk file in the main root directory of the project
 - Add your app description both on README.md and also include screenshots on README.md
 - Submit your Github repo link [here](https://forms.gle/P8U2HsXzP25QycTW9).
+- If stuck, join the discord channel from [here](https://discord.gg/xwSmtPfk5F) and ask the questions directly
+
 
 ## Deadline
 4th March 2021, Thrusday, 11:59 PM
